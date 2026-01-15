@@ -29,7 +29,7 @@ PONER EL ARCHIVO **launcher.py** en la carpeta de hytale.
 
 
 
-### 🚀 Requisitos
+## 🚀 Requisitos
 una canaima con linux (opcional)
 
 Dependencias de Python
@@ -46,7 +46,7 @@ libpng
 libSDL2
 
 
-### 🛠️ Uso
+## 🛠️ Uso
 Asegúrate de que el archivo hytale.sh esté en la misma carpeta que launcher.py.
 
 Ejecuta el launcher:
