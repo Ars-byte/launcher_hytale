@@ -24,7 +24,7 @@ Logs Integrados: Consola interna para visualizar el progreso del lanzamiento y p
 
 ## 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫 IMPORTANTE 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
 
-PONER EL ARCHIVO **launcher.py** en la carpeta de hytale.
+DESCARGAR Y PONER EL ARCHIVO **launcher.py** en la carpeta de hytale.
 ```Markdown
 .Hytale_linux
 ├── install/            # Archivos de instalación
