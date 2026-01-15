@@ -36,8 +36,9 @@ Dependencias de Python
 Para ejecutar el launcher, necesitas tener instalado Python 3.x y las siguientes librerías:
 
 
-pip install customtkinter pillow
-Dependencias del Sistema (Linux)
+pip install -r dependences.txt
+
+
 El launcher verificará la presencia de:
 
 libpng
