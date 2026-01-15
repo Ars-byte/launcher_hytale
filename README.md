@@ -25,10 +25,15 @@ Logs Integrados: Consola interna para visualizar el progreso del lanzamiento y p
 ## 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫 IMPORTANTE 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
 
 PONER EL ARCHIVO **launcher.py** en la carpeta de hytale.
-
-
-
-
+```Markdown
+.Hytale_linux
+├── install/            # Archivos de instalación
+├── UserData/           # Datos y configuraciones del jugador
+├── hytale.sh           # Script ejecutable del juego
+├── launcher.py         # Aplicación del Launcher (Python)
+├── readme-nix.md       # Notas para NixOS
+└── shell.nix           # Entorno de desarrollo Nix
+```
 ## 🚀 Requisitos
 una canaima con linux (opcional)
 
