@@ -20,6 +20,11 @@ Logs Integrados: Consola interna para visualizar el progreso del lanzamiento y p
 
 
 
+### IMPORTANTE
+
+PONER EL ARCHIVO launcher.py en la carpeta de hytale.
+
+
 ### 🚀 Requisitos
 una canaima con linux (opcional)
 
