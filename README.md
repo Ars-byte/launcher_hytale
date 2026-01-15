@@ -22,7 +22,7 @@ Logs Integrados: Consola interna para visualizar el progreso del lanzamiento y p
 
 
 
-### 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫 IMPORTANTE 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
+## 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫 IMPORTANTE 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
 
 PONER EL ARCHIVO **launcher.py** en la carpeta de hytale.
 
