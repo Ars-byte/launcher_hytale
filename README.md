@@ -1,64 +1,8 @@
 ### Hytale Launcher 🎮
 Un lanzador ligero y minimalista para Hytale, desarrollado en Python utilizando la librería CustomTkinter. Este proyecto permite gestionar el nombre de usuario, verificar dependencias del sistema y ejecutar el juego de forma sencilla.
 
-## ✨ Características
-Interfaz Moderna: Diseño oscuro y minimalista con estética profesional.
+solo arrastra el binario a tu carpeta de hytale del caribe o no, doble click y a jugar crack :b.
 
-Multi-idioma: Soporte nativo para Español e Inglés.
+Preview:
 
-Gestión de Usuario: Permite cambiar el nickname directamente desde la interfaz, actualizando automáticamente el script de arranque.
-
-Información del Sistema: Muestra detalles en tiempo real sobre tu CPU, GPU, Sistema Operativo y Versión del Kernel.
-
-Verificación de Dependencias: En sistemas Linux, comprueba automáticamente si tienes instaladas las librerías críticas (libpng, libSDL2).
-
-Logs Integrados: Consola interna para visualizar el progreso del lanzamiento y posibles errores.
-
-## 📸 Vista Previa
-
-<img width="540" height="640" alt="image" src="https://github.com/user-attachments/assets/25c4fc84-1b23-46fa-bae8-7bd02c8ce171" />
-
-
-
-
-
-## 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫 IMPORTANTE 🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫🚫
-
-DESCARGAR Y PONER EL ARCHIVO **launcher.py** en la carpeta de hytale.
-```Markdown
-.Hytale_linux
-├── install/            # Archivos de instalación
-├── UserData/           # Datos y configuraciones del jugador
-├── hytale.sh           # Script ejecutable del juego
-├── launcher.py         # Aplicación del Launcher (Python)
-├── readme-nix.md       # Notas para NixOS
-└── shell.nix           # Entorno de desarrollo Nix
-```
-## 🚀 Requisitos
-una canaima con linux (opcional)
-
-Dependencias de Python
-Para ejecutar el launcher, necesitas tener instalado Python 3.x y las siguientes librerías:
-
-
-pip install -r dependences.txt
-
-
-El launcher verificará la presencia de:
-
-libpng
-
-libSDL2
-
-
-## 🛠️ Uso
-Asegúrate de que el archivo hytale.sh esté en la misma carpeta que launcher.py.
-
-Ejecuta el launcher:
-
-python launcher.py
-Introduce tu nombre de usuario (ars es el nombre predeterminado).
-
-Haz clic en "Lanzar Aplicación".
-
-Nota: En sistemas Linux, el launcher intentará dar permisos de ejecución (chmod +x) al archivo hytale.sh automáticamente antes de iniciar.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c60faa3-f281-406c-836a-c29f196bf76d" />
