@@ -1,15 +1,6 @@
 ### Hytale Launcher 🎮
 Un lanzador ligero y minimalista para Hytale, desarrollado en Python utilizando la librería CustomTkinter. Este proyecto permite gestionar el nombre de usuario, verificar dependencias del sistema y ejecutar el juego de forma sencilla.
 
-sudo apt install python
+doble click al launcher y a jugar :b 
 
-sudo pacman -S python
-
-pip install -r dependences.txt
-
-python3 launcher.py 
-
-(es por ahora luego traere el binario compilado)
-Preview:
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c60faa3-f281-406c-836a-c29f196bf76d" />
+<img width="533" height="638" alt="image" src="https://github.com/user-attachments/assets/f4f28ac8-ed6e-49a1-a8ad-78c0b0d6a582" />
